@@ -15,7 +15,7 @@
 
 /* ---- 1. CONFIG — fill these three in ------------------------------------- */
 const CONFIG = {
-  SUPABASE_URL: 'https://jtiwbaudjbwjehkpnhrg.supabase.co/rest/v1/',
+  SUPABASE_URL: 'https://jtiwbaudjbwjehkpnhrg.supabase.co',
   SUPABASE_ANON_KEY: 'sb_publishable_uDMlUrhkEm8oQMd93U5YJg_pez5cE_Z',
   HOST_PIN: '8981',
 };
